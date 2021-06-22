@@ -2,7 +2,7 @@
 name: Docker Build and Push
 
 ## Set the trigger policy.
-## In this case, the workflow is execute on a pull request event,
+## In this case, the workflow is executed on a pull request event,
 ## or when a new commit is pushed to the main branch.
 on:
   push:
